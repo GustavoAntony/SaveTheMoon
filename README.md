@@ -1,23 +1,24 @@
 # SaveTheMoon
 
-Aluno: Gustavo Antony de Assis
-Link itch.io: https://gustavoantony.itch.io/savethemoon
+### Aluno: Gustavo Antony de Assis
 
-OBJETIVO:
+### Link itch.io: https://gustavoantony.itch.io/savethemoon
+
+## OBJETIVO:
 
 Coletar todos os lixos radioativos reconhecidos como cubos amarelos na tela e assim limpar o território lunar.
 
-ATENÇÃO:
+## ATENÇÃO:
 
 Você deve fugir dos meteoros e ficar atento tanto a vida, quanto ao tempo.
 
-JOGABILIDADE:
+## JOGABILIDADE:
 
  Utilize as teclas de AWSD ou as SETINHAS para controlar o personagem.
 
 
 
-CRÉDITOS:
+# CRÉDITOS:
 
 RECURSOS:
 
